@@ -1,6 +1,6 @@
 # 国科大模式识别与机器学习实践作业
 ## 数据集
-- [MNIST]([MNIST Original | Kaggle](https://www.kaggle.com/datasets/avnishnish/mnist-original?resource=download))
+- [MNIST](https://www.kaggle.com/datasets/avnishnish/mnist-original?resource=download)
 
 ## 方法
 ### 线性SVM
